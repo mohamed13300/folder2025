@@ -1,1 +1,3 @@
 mohameds sss kkk
+if low ==3
+print hello
